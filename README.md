@@ -1,5 +1,5 @@
 # 2022.SDK.Developer
-2022 Software Developer 實作考題 
+2022 Developer 實作考題 
 請依照下面虛擬情境的需求以及要求之技術，完成該情境需求的系統
 
 **今天我們需要提供一個資料平台給用戶端的系統呼叫，終端有Application可以讀取CSV內的資料，將其資料儲存到資料庫，每次讀取CSV File時候，要將原資料刪除。除了將資料寫入資料庫外，也有系統讓資料可以讀出**
@@ -20,7 +20,7 @@
 
 # Acceptance Criteria
 > 時間
-- 依照HR指定時間完成，並再跟HR約第二次面談時間
+- 請先預估完成時間, 並在完成後回報面試主管, 約二次面談時間。
 
 > 成果展示
 - 分享自己在Azure DevOps Service的`Repository`給主考官，Repository須設定為公開
@@ -28,4 +28,4 @@
 > 第二次面試時，請現場Demo作品及說明系統架構
 - Demo時，能PostMan呼叫API做存與取出資料進行展示
 
-> 請依照`Description`，發揮創意、設計解決方案
+
