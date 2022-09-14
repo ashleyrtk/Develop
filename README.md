@@ -26,6 +26,6 @@
 - 分享自己在Azure DevOps Service的`Repository`給主考官，Repository須設定為公開
 
 > 第二次面試時，請現場Demo作品及說明系統架構
-- Demo時，能PostMan呼叫API做存與取出資料進行展示
+- Demo時，能Postman呼叫API做存與取出資料進行展示
 
 
