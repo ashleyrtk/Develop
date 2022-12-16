@@ -1,13 +1,13 @@
-# 2022.SDK.Developer : Web API 取存 實作考題
+# 2022.SDK.Developer : WebAPI 取存 實作考題
 
 請依照下面虛擬情境的需求以及要求之技術，完成該情境需求的系統
 
-**今天我們需要提供一個資料平台給用戶端的系統呼叫，終端有Application可以讀取CSV內的資料，將其資料儲存到資料庫，每次讀取CSV File時候，要將資料庫內的原資料刪除。除了將資料寫入資料庫外，也有系統讓資料可以讀出**
+**今天我們需要提供一個資料平台給用戶端的系統呼叫，終端有 Application 可以讀取CSV內的資料，將其資料儲存到資料庫，每次讀取 CSV File 時候，要將資料庫內的原資料刪除。除了將資料寫入資料庫外，也有系統讓資料可以讀出**
 
 ##### 原始需求
-1. 建立一個Console Application 將CSV內容讀出儲存到資料表
-2. Console Application必須透過Web API將資料儲存
-3. Console Application必須透過Web API將資料取出
+1. 建立一個 Console Application 將 CSV 內容讀出儲存到資料表
+2. Console Application必須透過 Web API 將資料儲存
+3. Console Application必須透過 Web API 將資料取出
 
 # Skill Requirement
 > 環境
