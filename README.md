@@ -6,16 +6,16 @@
 
 ##### 原始需求
 1. 建立一個 Console Application 將 CSV 內容讀出儲存到資料表
-2. Console Application必須透過 Web API 將資料儲存
-3. Console Application必須透過 Web API 將資料取出
+2. Console Application 必須透過 Web API 將資料儲存
+3. Console Application 必須透過 Web API 將資料取出
 
 # Skill Requirement
 > 環境
-- 請將開發之系統，佈署至Micrsoft Azure (可免費使用30天)，可以用Azure免費的Azure SQL DB
+- 請將開發之系統，佈署至 Micrsoft Azure (可免費使用30天)，可以用Azure免費的Azure SQL DB
 - 請將程式碼透過Azure DevOps Service進行版控 (可免費使用)，請將專案設定公開
 > 技術
-- Console : 請使用NET Core 6 開發
-- Web API : 請使用.Net6開發
+- Console : 請使用 Net6 開發
+- Web API : 請使用 Net6 開發
 - DataBase : 請使用MS SQL開發SQL程式，一律採用Store procedure開發
 
 # Acceptance Criteria
@@ -23,9 +23,9 @@
 - 請先預估完成時間, 並在完成後回報面試主管, 約二次面談時間。
 
 > 成果展示
-- 分享自己在Azure DevOps Service的`Repository`給主考官，Repository須設定為公開
+- 分享自己在Azure DevOps Service的`Repository`給主考官，Repository 須設定為公開
 
 > 第二次面試時，請現場Demo作品及說明系統架構
-- Demo時，能Postman呼叫API做存與取出資料進行展示
+- Demo時，能 Postman 呼叫API做存與取出資料進行展示
 
 
